@@ -21,3 +21,8 @@ See also: [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-s
 1. Support the Circuit Breaker pattern to manage faulty service dependencies.
     * Examples: [Hystrix](https://github.com/Netflix/Hystrix), [Apache Zest](https://zest.apache.org/java/2.1/library-circuitbreaker.html)
 1. Consider CQRS to scale reads separately from writes.
+
+
+#Controller Query Responsibility Segregation (CQRS) Architecture
+
+![alt text](CQRS\ Architecture.jpeg?raw=true "CQRS Architecture")
