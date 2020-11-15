@@ -25,4 +25,4 @@ See also: [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-s
 
 #Controller Query Responsibility Segregation (CQRS) Architecture
 
-![alt text](CQRS\ Architecture.jpeg?raw=true "CQRS Architecture")
+![alt text](CQRS Architecture.jpeg?raw=true "CQRS Architecture")
