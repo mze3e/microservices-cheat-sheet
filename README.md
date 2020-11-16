@@ -1,6 +1,3 @@
-See also: [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet#api-design-cheat-sheet),
-[Platform Building Cheat Sheet](https://github.com/RestCheatSheet/platform-cheat-sheet#platform-building-cheat-sheet)
-
 # Microservices Cheat Sheet
 1. Do only one thing and do it well. The "one thing" is defined by a "Bounded Context" in Domain-Driven Design (DDD).
 1. Own your own data. No shared data stores.
